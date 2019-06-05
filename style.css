@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    background-color: #000;
+    color: #fff;
+}
+canvas{
+    position: fixed;
+}
+.container{
+    height: 30px;
+    width: 160px;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+}
+.circle{
+    position: relative;
+    width: 20px;
+    height: 20px;
+    background-color: #fff;
+    border-radius: 50%;
+    float: left;
+    margin-left: 20px;
+    box-shadow: 2px 2px 20px 2px whitesmoke;
+    animation: load 2s infinite;
+}
+@keyframes load{
+    50%{transform: scale(0.5);}
+}
