@@ -3,3 +3,7 @@ A simple canvas game made with p5.js. The game begins with 5 rows of bricks havi
 
 Demo image:
 ![image](https://user-images.githubusercontent.com/35723938/58940678-bc459900-8797-11e9-89aa-9b02fb8e4272.png)
+
+Try the demo code here:
+
+https://shrutiagrwl.github.io/Break-out-game-/
